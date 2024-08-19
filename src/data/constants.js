@@ -266,7 +266,7 @@ export const projects = [
         "ReactJS",
       ],
       category: "web app",
-      github: "https://github.com/Yuvaraj7117/Yuvafolio",
+      github: "https://github.com/Yuvaraj7117/Portfolio63",
       webapp: "#",
     },
 
